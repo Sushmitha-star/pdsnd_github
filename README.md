@@ -38,3 +38,7 @@ https://github.com/Likhitha0506/pdsnd_github
 ### Data sources & credits
 
 Data and project skeleton sourced from the Udacity Bikeshare project. Thanks to Udacity for the dataset and instructions.
+
+## Usage
+Run using:
+python bikeshare_starter.py
