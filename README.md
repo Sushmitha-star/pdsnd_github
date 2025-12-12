@@ -45,3 +45,6 @@ python bikeshare_starter.py
 
 ### Repository URL
 https://github.com/Likhitha0506/pdsnd_github
+
+### Data Sources
+Project and data provided by Udacity.
