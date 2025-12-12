@@ -21,3 +21,11 @@ Python and Git tutorials consulted:
 Python Official Documentation
 Git Documentation
 
+
+## Usage
+
+Run the bikeshare starter script with Python 3 (example):
+
+
+Before running, copy one of the city CSV files (chicago/new_york_city/washington) into the repo root or place them in the working folder.
+
