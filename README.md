@@ -21,3 +21,30 @@ Python and Git tutorials consulted:
 Python Official Documentation
 Git Documentation
 
+
+## Usage
+
+Run the bikeshare starter script with Python 3 (example):
+
+
+Before running, copy one of the city CSV files (chicago/new_york_city/washington) into the repo root or place them in the working folder.
+
+
+### Repository Link
+For reviewer convenience, the repository is available at:
+https://github.com/Likhitha0506/pdsnd_github
+
+
+### Data sources & credits
+
+Data and project skeleton sourced from the Udacity Bikeshare project. Thanks to Udacity for the dataset and instructions.
+
+## Usage
+Run using:
+python bikeshare_starter.py
+
+### Repository URL
+https://github.com/Likhitha0506/pdsnd_github
+
+### Data Sources
+Project and data provided by Udacity.
