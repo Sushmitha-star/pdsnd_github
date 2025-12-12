@@ -34,3 +34,7 @@ Before running, copy one of the city CSV files (chicago/new_york_city/washington
 For reviewer convenience, the repository is available at:
 https://github.com/Likhitha0506/pdsnd_github
 
+
+### Data sources & credits
+
+Data and project skeleton sourced from the Udacity Bikeshare project. Thanks to Udacity for the dataset and instructions.
